@@ -1,80 +1,36 @@
-# **Product Description**
+This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
+## Getting Started
 
+First, run the development server:
 
-###### 1\. Ultimate Protection for Your Child :
+```bash
+npm run dev
+# or
+yarn dev
+# or
+pnpm dev
+# or
+bun dev
+```
 
+Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
+You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
 
-Protect your child from accidental bumps, bruises, and knocks without compromising your home’s aesthetic. This premium edge protector strip is designed to fit onto sharp furniture edges — including tables, shelves, cabinets, beds, window sills, and more — to create a safer space for toddlers and pets. It acts like a soft, invisible bumper that significantly reduces injury risk when little ones explore.
+This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
 
+## Learn More
 
+To learn more about Next.js, take a look at the following resources:
 
-Made from soft, shock-absorbing silicone, this safety guard cushion feels gentle to the touch but is tough where it counts. Its flexible design allows it to bend and contour to a variety of edge shapes and surfaces, making it perfect for both flat edges and curved corners.
+- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
+- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
 
+You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
 
+## Deploy on Vercel
 
-###### 2\. Easy to Install \& Invisible Protection :
+The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
-
-
-Say goodbye to complicated installations — our edge protector comes with strong adhesive backing that sticks firmly to most clean, smooth surfaces including wood, glass, metal, and laminate. Simply measure, unpeel, and stick — no tools needed. The subtle design blends nearly invisibly with your furniture, keeping your home elegant while ensuring safety.
-
-
-
-Whether you’re baby-proofing for the first time or refreshing your safety setup, this protector offers quick, hassle-free coverage that lasts. It’s also easy to remove without damaging furniture or leaving sticky residue behind.
-
-
-
-###### 3\. Built for Every Part of Your Home :
-
-
-
-This edge guard protector is versatile enough for living rooms, bedrooms, kitchens, nurseries, and play areas. Use it along table edges, cabinets, coffee tables, entertainment units, bedside tables, and wall corners. The soft silicone helps cushion every impact, making your space safer for little adventurers and peace of mind for parents.
-
-
-
-Designed for families with active toddlers, pets, or seniors, this edge protector works quietly in the background — always there when you need it, without grabbing attention.
-
-
-
-#### Key Features :
-
-
-
-\- Soft \& Shock-Absorbing Silicone protects against sharp edges
-
-
-
-\- Strong Self-Adhesive Backing for secure, long-lasting protection
-
-
-
-\- Flexible \& Cut-To-Size to fit any edge, corner, or surface
-
-
-
-\- Neutral, Low-Profile Look that blends with home interiors
-
-
-
-\- Multi-Use Safety Solution for homes, day-care spaces, and offices
-
-
-
-\- Multiple Length Options Available for complete coverage
-
-
-
-#### Perfect For :
-
-
-
-✔ Baby-proofing furniture edges
-
-✔ Child safety reinforcement
-
-✔ Reducing injury from sharp corners
-
-✔ Kitchens, living spaces, bedsides, study tables
-
+Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
